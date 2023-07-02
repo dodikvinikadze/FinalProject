@@ -1,6 +1,6 @@
 # FinalProject
 automation-tests
-This is my final project for automated testing course
+This is my final project for automated testing course. 
 I'll briefly explain what tools I've used and which test cases are automated.
 ## Tools
 * Maven
