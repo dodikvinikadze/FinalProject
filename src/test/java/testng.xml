@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test-Suite" >
+    <test name="automation-tests">
+                <groups>
+                    <run>
+                        <include name="smoke"/>
+                        <include name="regression"/>
+                        <include name="UAT"/>
+                    </run>
+                </groups>
+        <classes>
+            <class name="Address"/>
+            <class name="Contact"/>
+            <class name="Login"/>
+            <class name="MyAccount"/>
+            <class name="Profile"/>
+        </classes>
+    </test>
+</suite>
