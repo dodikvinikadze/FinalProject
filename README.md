@@ -2,7 +2,7 @@
 automation-tests
 This is my final project for automated testing course. 
 I'll briefly explain what tools I've used and which test cases are automated.
-##Concepts Included
+## Concepts Included
 * Regression tests
 * UAT tests
 * Smoke tests
