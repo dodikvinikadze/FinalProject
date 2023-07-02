@@ -1,6 +1,5 @@
 # FinalProject
-automation-tests
-This is my final project for automated testing course. 
+This is my final project for automation testing course. 
 I'll briefly explain what tools I've used and which test cases are automated.
 ## Concepts Included
 * Regression tests
@@ -26,4 +25,3 @@ I'll briefly explain what tools I've used and which test cases are automated.
 10. Verify if expected validation error is displayed after clicking on subscribe with an empty field (Profile)
 11. Verify if a user can change current password (MyAccount)
 12. Verify if a user can not change current password with an invalid old password (MyAccount)
-   
